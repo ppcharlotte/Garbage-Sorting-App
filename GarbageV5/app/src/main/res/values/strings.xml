@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GarbageV5</string>
+    <string name="title">Garbage SortingV5</string>
+    <string name="place">Where to place item：</string>
+    <string name="where">Where</string>
+    <string name="enter_hint">Enter garbage</string>
+    <string name="what_item">What item?</string>
+    <string name="add_toast">Please enter something in the what and where fields</string>
+</resources>
