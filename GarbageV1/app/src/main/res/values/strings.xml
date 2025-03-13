@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GarbageV1</string>
+    <string name="title">Garbage Sorting</string>
+    <string name="place">Where to place item：</string>
+    <string name="where">Where</string>
+    <string name="enter_hint">Enter garbage</string>
+</resources>
