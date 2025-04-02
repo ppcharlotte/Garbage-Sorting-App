@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GarbageV8</string>
+    <string name="title">Garbage SortingV8</string>
+    <string name="place">Where to place item：</string>
+    <string name="where">Where</string>
+    <string name='delete'>Delete Item</string>
+    <string name="enter_hint">Enter garbage</string>
+    <string name="what_item">What item?</string>
+    <string name='add_a_item'>Add new item</string>
+    <string name="add_toast">Please enter something in the what and where fields</string>
+    <string name="where_question">Where?</string>
+    <string name="add_item">Add New Item</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
